@@ -2,7 +2,6 @@
 
 Welcome to my personal website!
 
-![Website Screenshot](screenshot.png)
 
 ## Description
 
@@ -34,6 +33,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-If you have any questions or want to get in touch, you can reach me at [your.email@example.com](mailto:your.email@example.com).
+If you have any questions or want to get in touch, you can't reach me 
 
 Thank you for visiting my website!
